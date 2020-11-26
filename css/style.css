@@ -75,8 +75,8 @@ footer {
 .bannnerSection {
     align-items: center;
     background-image: url('../assets/wildfire-bg.jpg');
-    background-repeat: no-repeat;
     background-position-y: 60%;
+    background-repeat: no-repeat;
     background-size: cover;
     color: white;
     display: flex;
@@ -89,10 +89,10 @@ footer {
 .initialSection {
     align-items: center;
     background-color: #fefefe;
-    text-align: center;
     display: flex;
     flex-direction: column;
     justify-content: center;
+    text-align: center;
 }
 
 .initialSection_{
@@ -175,6 +175,3 @@ footer {
         width: 1440px;
     }
 }
-
-
-
